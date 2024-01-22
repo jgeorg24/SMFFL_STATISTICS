@@ -1,54 +1,29 @@
 # SMFFL STATS
 
-This project is designed to store and manage statistics for a flag football league using a MySQL database. It includes tables for QB (Quarterback) Stats and WR/RB (Wide Receiver/Running Back) Stats for the Thanksgiving Bowl 2022-2023 season.
+This repository is designed to store and manage statistics for SMFFL using a MySQL database. It includes tables statistics for the each bowl game from the 2022-2023 season and 2023-2024 season.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Database Structure](#database-structure)
+- [Games Included](#games-included)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Games Included
 
-Describe the purpose and goals of your project. Include any relevant background information.
+2022-2023 Season
+- Thanksgiving
+- Christmas Bowl
+- Spring Slingfest
+- Summer Kickoff
+- Endgame
 
-## Database Structure
-
-### QBStats Table
-
-- PlayerID
-- Name
-- PassTD
-- RushTD
-- PassPAT
-- RushPAT
-- INTQB
-- FumbleQB
-- TotalTDSQB
-- PassAttempts
-- PassCompletions
-- CompletionPercentage
-- QBR
-- QBRuns
-- RushingYards
-- PassingYards
-
-### WRRBStats Table
-
-- PlayerID
-- Name
-- Handoffs
-- Targets
-- Receptions
-- ReceivingTD
-- ReceivingYards
-- RushingYards
-- RushTD
-- ReceivingPAT
-- RushPAT
-- FumbleWR
+2023-2024 Season
+- Thanksgiving
+- New Year's Bowl
+- Spring Slingfest
+- Summer Kickoff
+- Endgame
 
 ## Getting Started
 
