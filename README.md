@@ -6,8 +6,6 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 - [Games Included](#games-included)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Games Included
 
