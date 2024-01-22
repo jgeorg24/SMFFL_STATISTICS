@@ -27,9 +27,12 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 
 ## Getting Started
 
-1. Clone the repository.
-2. Create the necessary database and tables using the provided SQL scripts.
-3. Insert sample data into the tables.
+1. Create an schema for each bowl game in MySQL Workbench for example "ThanksgivingBowl_2022_2023".
+2. Download the .csv files for each bowl game.
+3. In MySQL Workbench right click "Tables" under the SCHEMAS tab.
+4. Select "Table Data Import Wizard".
+5. Browse and select the .csv file.
+6. Click next and refresh the SCHEMAS.
 
 ## Usage
 
