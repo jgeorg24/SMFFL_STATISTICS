@@ -1,4 +1,4 @@
-#SMFFL STATS
+# SMFFL STATS
 
 This project is designed to store and manage statistics for a flag football league using a MySQL database. It includes tables for QB (Quarterback) Stats and WR/RB (Wide Receiver/Running Back) Stats for the Thanksgiving Bowl 2022-2023 season.
 
