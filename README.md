@@ -34,8 +34,8 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 6. Click next and refresh the SCHEMAS.
    
 ## Contributors
-- Jacob George
-- Joel George
+- Jacob George - Project Lead
+- Joel George - Project Principal Associate
 
 
 ## Usage
