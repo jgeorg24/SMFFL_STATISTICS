@@ -6,7 +6,6 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 - [Games Included](#games-included)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [Usage](#usage)
 
 ## Games Included
 
@@ -36,12 +35,3 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 ## Contributors
 - Jacob George - Project Lead
 - Joel George - Project Principal Associate
-
-
-## Usage
-
-Provide instructions on how to use your project. Include examples of SQL queries and commands for interacting with the database.
-
-```sql
--- Example SQL query
-SELECT * FROM ThanksgivingBowl_2022_2023.QBStats;
