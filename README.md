@@ -1,4 +1,4 @@
-# SMFFL STATS
+# SMFFL STATISTICS
 
 This repository is designed to store and manage statistics for SMFFL using a MySQL database. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
 
