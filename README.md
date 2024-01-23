@@ -37,7 +37,6 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 - Jacob George
 - Joel George
 
-Provide instructions on how to use your project. Include examples of SQL queries and commands for interacting with the database.
 
 ## Usage
 
