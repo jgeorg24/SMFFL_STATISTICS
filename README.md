@@ -35,3 +35,5 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 ## Contributors
 - Jacob George - Project Lead
 - Joel George - Project Principal Associate
+- Tharun Jaiganesh - Data Analyst
+- Anshuman Gupta - Data Analyst
