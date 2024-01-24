@@ -8,7 +8,7 @@
   Visit our LinkedIn page: https://www.linkedin.com/company/smffl/
 
 
-This repository is designed to store and manage statistics and visuals for SMFFL using a MySQL database and Tableau. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
+This repository is designed to store and manage statistics and visuals for SMFFL using MySQL Workbench and Tableau. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
 
 ## Table of Contents
 - [Games Included](#games-included)
