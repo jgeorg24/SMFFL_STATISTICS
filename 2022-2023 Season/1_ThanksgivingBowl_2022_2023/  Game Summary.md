@@ -30,4 +30,6 @@ Chadwick - 7 Sacks, 1 Swat/PBU, 0.5 Tackles
 
 - WR/RB Visual
 
+![Screenshot 2024-01-24 at 4 45 01 PM](https://github.com/jgeorg24/SMFFL_Stats/assets/135657590/efc1872d-51c6-4c46-afa8-dec6feb6d417)
+
 - Defense Visual
