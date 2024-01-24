@@ -24,9 +24,6 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 2023-2024 Season
 - Thanksgiving
 - New Year's Bowl
-- Spring Slingfest
-- Summer Kickoff
-- Endgame
 
 ## Getting Started
 
