@@ -37,6 +37,6 @@ Coming Soon!
 ## Contributors
 - [Jacob George](https://www.linkedin.com/in/-jacobgeorge/) - Director of Data Operations
 - [Joel George](https://www.linkedin.com/in/-joelgeorge/) - Data Architect and Visualization Specialist
-- [Tharun Jaiganesh](https://www.linkedin.com/in/tharunvjaiganesh/) - Data Acquisition Specialist
-- [Anshuman Gupta](https://www.linkedin.com/in/anshumangupta2/) - Data Acquisition Specialist
+- [Tharun Jaiganesh](https://www.linkedin.com/in/tharunvjaiganesh/) - Data Analyst
+- [Anshuman Gupta](https://www.linkedin.com/in/anshumangupta2/) - Data Analyst
 
