@@ -22,7 +22,7 @@ This repository is designed to store and manage statistics and visuals for SMFFL
 - Endgame
 
 2023-2024 Season
-- Coming Soon!
+Coming Soon!
 
 ## Getting Started
 
