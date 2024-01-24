@@ -4,6 +4,9 @@
   <img src="https://github.com/jgeorg24/SMFFL_Stats/assets/135657590/f98765f2-907a-4a99-a3d3-cbf92329ba27" alt="SMFFL-7" width="300"/>
 </p>
 
+<p align="center">
+  Visit our LinkedIn page: https://www.linkedin.com/company/smffl/
+
 
 This repository is designed to store and manage statistics and visuals for SMFFL using a MySQL database and Tableau. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
 
