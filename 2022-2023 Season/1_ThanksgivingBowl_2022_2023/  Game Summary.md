@@ -24,3 +24,10 @@ Black Team - 19
 Chadwick - 7 Sacks, 1 Swat/PBU, 0.5 Tackles
 
 ## Tableau Visuals
+- QB Visual
+  
+![Screenshot 2024-01-24 at 4 38 10 PM](https://github.com/jgeorg24/SMFFL_Stats/assets/135657590/f0e6d47d-0696-47ac-bee7-e7d420a066d7)
+
+- WR/RB Visual
+
+- Defense Visual
