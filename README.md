@@ -22,8 +22,7 @@ This repository is designed to store and manage statistics and visuals for SMFFL
 - Endgame
 
 2023-2024 Season
-- Thanksgiving
-- New Year's Bowl
+- Coming Soon!
 
 ## Getting Started
 
