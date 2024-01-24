@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Final Score - Scoreboard](#final-score---scoreboard)
 - [MVP](#mvp)
-
+- [Tableau Visuals](#tableau-visuals)
 ## Final Score - Scoreboard
 
 Red Team - 45
@@ -22,3 +22,5 @@ Black Team - 19
 ## MVP
 
 Chadwick - 7 Sacks, 1 Swat/PBU, 0.5 Tackles
+
+## Tableau Visuals
