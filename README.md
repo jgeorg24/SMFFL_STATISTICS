@@ -35,8 +35,8 @@ This repository is designed to store and manage statistics and visuals for SMFFL
 6. Click next and refresh the SCHEMAS.
    
 ## Contributors
-- [Jacob George](www.linkedin.com/in/-jacobgeorge) - Chief Data Officer
-- [Joel George](link_to_joel_linkedin) - Data Architect and Visualization Specialist
-- [Tharun Jaiganesh](link_to_tharun_linkedin) - Data Analyst
-- [Anshuman Gupta](link_to_anshuman_linkedin) - Data Analyst
+- Jacob George - Chief Data Officer - [Linkedin](www.linkedin.com/in/-jacobgeorge)
+- Joel George - Data Architect and Visualization Specialist
+- Tharun Jaiganesh - Data Analyst
+- Anshuman Gupta - Data Analyst
 
