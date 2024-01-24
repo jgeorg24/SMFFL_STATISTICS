@@ -5,7 +5,7 @@
 </p>
 
 
-This repository is designed to store and manage statistics for SMFFL using a MySQL database. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
+This repository is designed to store and manage statistics and visuals for SMFFL using a MySQL database and Tableau. It includes tables for statistics from each bowl game of the 2022-2023 season and 2023-2024 season.
 
 ## Table of Contents
 - [Games Included](#games-included)
@@ -22,8 +22,7 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 - Endgame
 
 2023-2024 Season
-- Thanksgiving
-- New Year's Bowl
+- Coming Soon!
 
 ## Getting Started
 
@@ -35,7 +34,8 @@ This repository is designed to store and manage statistics for SMFFL using a MyS
 6. Click next and refresh the SCHEMAS.
    
 ## Contributors
-- Jacob George - Project Lead
-- Joel George - Project Principal Associate
-- Tharun Jaiganesh - Data Analyst
-- Anshuman Gupta - Data Analyst
+- [Jacob George](https://www.linkedin.com/in/-jacobgeorge/) - Director of Data Operations
+- [Joel George](https://www.linkedin.com/in/-joelgeorge/) - Data Architect and Visualization Specialist
+- [Tharun Jaiganesh](https://www.linkedin.com/in/tharunvjaiganesh/) - Data Analyst
+- [Anshuman Gupta](https://www.linkedin.com/in/anshumangupta2/) - Data Analyst
+
