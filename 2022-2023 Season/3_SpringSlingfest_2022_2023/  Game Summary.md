@@ -17,7 +17,7 @@ Team Maniac Munches - 32
 | Scoreboard       | 1st Half | 2nd Half | Total |
 |------------------|----------|----------|-------|
 | Shettt Inc.      | 27       | 6        | 33    |
-| Maniac Munchies  | 19       | 13       | 32    |
+| Maniac Munches  | 19       | 13       | 32    |
 
 ## MVP
 
