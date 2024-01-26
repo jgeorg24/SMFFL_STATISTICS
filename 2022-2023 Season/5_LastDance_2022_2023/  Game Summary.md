@@ -26,6 +26,8 @@ Tharun J. - 4 TD, 2 Picks, 60.00% Completion Percentage on 25 Throws.
 
 ## Tableau Visuals
 - QB Visual
+
+  ![Screenshot 2024-01-25 at 10 22 33 PM](https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/c254120d-19bc-4cfe-8353-8bdd4ae4b1ee)
   
 - WR/RB Visual
 
