@@ -30,7 +30,7 @@ Coming Soon!
 
 ## Getting Started
 
-1. Create a schema for each bowl game in MySQL Workbench, for example:
+1. Create a schema for each bowl game in MySQL Workbench, for example execute the following command:
    ```
    CREATE SCHEMA `ThanksgivingBowl_2022_2023`;"
    ```  
