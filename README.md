@@ -18,11 +18,11 @@ This repository is designed to store and manage statistics and visuals for SMFFL
 ## Games Included
 
 2022-2023 Season
-- Thanksgiving
+- Thanksgiving Bowl
 - Christmas Bowl
 - Spring Slingfest
 - Summer Kickoff
-- Endgame
+- Last Dance
 
 2023-2024 Season
 
