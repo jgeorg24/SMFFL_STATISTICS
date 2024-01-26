@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Final Score - Scoreboard](#final-score---scoreboard)
 - [MVP](#mvp)
+- [Tableau Visuals](#tableau-visuals)
 
 ## Final Score - Scoreboard
 
@@ -22,3 +23,10 @@ Team Yo-Yo Batch - 13
 ## MVP
 
 Tharun J. - 4 TD, 2 Picks, 60.00% Completion Percentage on 25 Throws. 
+
+## Tableau Visuals
+- QB Visual
+  
+- WR/RB Visual
+
+- Defense Visual
