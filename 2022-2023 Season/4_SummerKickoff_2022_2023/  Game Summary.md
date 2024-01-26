@@ -27,13 +27,13 @@ Pranav S. - 5 TD, 0 Picks, 53.85% Completion Percentage on 26 Throws.
 ## Tableau Visuals
 - QB Visual
   
-![Screenshot 2024-01-25 at 7 14 24 PM](https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/0b0802dd-27a8-408e-a5c9-70b5ba5a37e2)
+  ![Screenshot 2024-01-25 at 7 14 24 PM](https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/0b0802dd-27a8-408e-a5c9-70b5ba5a37e2)
 
 - WR/RB Visual
 
-![Screenshot 2024-01-25 at 7 16 25 PM](https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/e7694dd5-ad0b-439c-9daa-2ea88841cd21)
+  ![Screenshot 2024-01-25 at 7 16 25 PM](https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/e7694dd5-ad0b-439c-9daa-2ea88841cd21)
 
 - Defense Visual
 
-<img width="826" alt="Screenshot 2024-01-25 at 8 07 45 PM" src="https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/869aa7a2-38ca-4f7c-a4c3-0facf98054b7">
+  <img width="826" alt="Screenshot 2024-01-25 at 8 07 45 PM" src="https://github.com/jgeorg24/SMFFL_STATISTICS/assets/135657590/869aa7a2-38ca-4f7c-a4c3-0facf98054b7">
 
