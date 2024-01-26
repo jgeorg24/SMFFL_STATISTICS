@@ -7,7 +7,8 @@
 ## Table of Contents
 - [Final Score - Scoreboard](#final-score---scoreboard)
 - [MVP](#mvp)
-
+- [Tableau Visuals](#tableau-visuals)
+- 
 ## Final Score - Scoreboard
 Team Long - 45
 
@@ -22,3 +23,10 @@ Team Too Much Ka$h - 14
 ## MVP
 
 Pranav S. - 5 TD, 0 Picks, 53.85% Completion Percentage on 26 Throws. 
+
+## Tableau Visuals
+- QB Visual
+  
+- WR/RB Visual
+
+- Defense Visual
