@@ -30,13 +30,19 @@ Coming Soon!
 
 ## Getting Started
 
-1. Create a schema for each bowl game in MySQL Workbench, for example, "ThanksgivingBowl_2022_2023".
-2. Download the .csv files for each bowl game.
-3. In MySQL Workbench, right-click "Tables" under the SCHEMAS tab.
-4. Select "Table Data Import Wizard".
-5. Browse and select the .csv file.
-6. Click next and refresh the SCHEMAS.
+1. Create a schema for each bowl game in MySQL Workbench, for example:
+   ```
+   CREATE SCHEMA `ThanksgivingBowl_2022_2023`;"
+   ```
+
+
    
+3. Download the .csv files for each bowl game
+4. In MySQL Workbench, right-click "Tables" under the SCHEMAS tab
+5. Select "Table Data Import Wizard"
+6. Browse and select the .csv file
+7. Select "Next" and refresh the SCHEMAS tab
+
 ## Contributors
 - [Jacob George](https://www.linkedin.com/in/-jacobgeorge/) - Data Architect and Visualization Specialist
 - [Joel George](https://www.linkedin.com/in/-joelgeorge/) - Data Architect and Visualization Specialist
